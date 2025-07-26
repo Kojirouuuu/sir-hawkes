@@ -1,1 +1,13 @@
+config/*.pem
+
+config/aws_credentials.yaml
+
 python/test/
+
+.env
+
+AWSCLIV2.pkg
+
+python/
+
+workers/

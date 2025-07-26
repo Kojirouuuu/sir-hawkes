@@ -1,0 +1,7 @@
+boto3
+
+numpy
+networkx
+
+python-dotenv
+psutil

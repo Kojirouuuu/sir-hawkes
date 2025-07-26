@@ -1,0 +1,24 @@
+{
+  "nodes": 100,
+  "avg_degree": 10.0,
+  "initial_infected": 1,
+  "t_max": 100,
+  "repeats": 80,
+  "q": 0.02,
+  "r_high": 0.5,
+  "output_dir": "data_ER_N=100_r_high=0.5_q=0.02_exp",
+  "workers": 8,
+  "environment_info": {
+    "platform": "Darwin",
+    "platform_release": "24.4.0",
+    "machine": "arm64",
+    "processor": "arm",
+    "hostname": "mikamitorajirounoMacBook-Air.local",
+    "cpu_count": 8,
+    "memory_total": 8589934592,
+    "is_ec2": false,
+    "ec2_instance_type": null,
+    "environment_type": "Local-Darwin"
+  },
+  "is_network_common": true
+}
