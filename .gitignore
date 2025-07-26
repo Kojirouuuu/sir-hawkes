@@ -11,3 +11,9 @@ AWSCLIV2.pkg
 python/
 
 workers/
+
+# 大きなデータファイルを除外
+*.npz
+*.npy
+data_*/
+notebooks/*.npz
